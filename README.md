@@ -1,4 +1,5 @@
-# tebiki: 国連ベクトルタイルツールキットの手引き (Capacity Building Material for UNVT, in Japanese)
+# tebiki: 国連ベクトルタイルツールキットの手引き
+Capacity Building Material for UNVT, in Japanese
 
 # [手引きを見る](https://github.com/unvt/tebiki/issues/1)
 
